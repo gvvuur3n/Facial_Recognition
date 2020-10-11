@@ -1,0 +1,3 @@
+Facial detection project todo:
+ - Lower resolution of image by averaging pixel color data of a set of pixel.
+ - Use OOP principles for this project. (Split into useful methods/classes)
